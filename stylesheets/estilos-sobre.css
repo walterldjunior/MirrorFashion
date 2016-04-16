@@ -23,3 +23,12 @@ body {
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
+figure {
+	background-color: #F2EDED; /* Fundo da imagem */
+	border: 1px solid #ccc;
+	text-align: center; /* Alinhando texto no meio da figura. */
+}
+figcaption {
+	font-style: italic;
+}
+
