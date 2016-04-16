@@ -3,11 +3,13 @@ h1 {
 	font-family: serif;
 	background-image: url(../img/sobre-background.jpg);
 	border-width: 1px;
+	padding: 10px;
 }
 
 h2 {
 	font-family: sans-serif;
 	border-bottom: 2px solid #333333;
+	margin-top: 30px;
 }
 
 p {
@@ -15,20 +17,25 @@ p {
 	text-align: left;
 	text-indent:  30px; /* Espaçamento da primeira linha do texto */
 	word-spacing: 5px; /* Espaçamento entre as palavras */
-
+	padding: 0 45px 0 45px; /* Valores em top e rigth */
+	text-indent: 10px; /* Espaçamento na primeira linha */
 }
 
 body {
 	color: #333333;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	
 }
 
 figure {
 	background-color: #F2EDED; /* Fundo da imagem */
 	border: 1px solid #ccc;
 	text-align: center; /* Alinhando texto no meio da figura. */
+	padding: 15px;
+	margin: 30px;
 }
 figcaption {
 	font-style: italic;
+	margin-top: 10px;
 }
 
