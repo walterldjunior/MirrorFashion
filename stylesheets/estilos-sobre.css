@@ -1,0 +1,22 @@
+
+h1 {
+	font-family: serif;
+}
+
+h2 {
+	font-family: sans-serif;
+}
+
+p {
+	font-family: sans-serif;
+	text-align: left;
+	text-indent:  30px; /* Espaçamento da primeira linha do texto */
+	word-spacing: 5px; /* Espaçamento entre as palavras */
+
+}
+
+body {
+	font-family: "Arial", "Helvetica", sans-serif;
+	background: 
+}
+
