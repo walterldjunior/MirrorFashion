@@ -103,6 +103,15 @@
 .mais-vendidos {
 	background-color: #dcdcf5;
 }
+.facebook {
+/* tamanho do elemento = imagem */
+	height: 55px;
+	width: 85px;
+/* imagem como fundo */
+	background-image: url(../img/facebook.png);
+/* retirando o texto da frente */
+	text-indent: -9999px;
+}
 body {
 	color: #333333;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
